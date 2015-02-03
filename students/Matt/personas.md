@@ -22,7 +22,7 @@ base relationships on star signs
 
 dont believe in it but ask many questions and make decisions on it
 
-__Gary__
+__Jeff__
 
 Extrovert
 
