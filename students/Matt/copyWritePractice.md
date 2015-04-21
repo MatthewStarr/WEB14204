@@ -35,3 +35,17 @@ Tone 					| informal, clear (not clever)
 __Why not try connecting to your Facebook friends__
 
 __Try inviting your Facebook friends!__
+
+<br>
+
+Message for		| new users
+-------------	| -------
+to tell them 	| compatability list explanation
+so they 			| understand why they are compatable
+Displayed via	| friend page 
+when 					| when on friedns page
+Tone 					| informal, clear (not clever)
+
+__Old: Here is a list of people who have charts compatible with yours.__
+
+__New:Compatibility is all about being exact in some areas and opposite in others.  So here is a list of people who you may be compatible with__
